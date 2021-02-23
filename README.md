@@ -10,8 +10,27 @@ All notable changes to this project will be documented in this file. See [standa
 * **simple-server:** RIGD-43 added git push in bitbucket-pipeline.yml file ([5f5f7d8](https://bitbucket.org/realeyesmedia/simple-server/commit/5f5f7d8a6ba633528b9e6ce0cb98108074445366))
 * **simple-server:** RIGD-43 resolves conflicts ([396b1bc](https://bitbucket.org/realeyesmedia/simple-server/commit/396b1bc97bffdc5f23905e3934df23f2110e4ea2))
 
-### 1.0.2 (2020-10-27)
+### 1.0.6 (2021-02-23)
+
+* Testing 6
+
+### 1.0.5 (2021-02-23)
+
+* Testing 5
+* Testing 5.5
+
+### 1.0.4 (?)
+
+* Testing 4
+
+### 1.0.3 (?)
+
+* Testing 3
 
 ### 1.0.2 (2020-10-26)
 
+* Testing 2
+
 ### 1.0.1 (2020-10-08)
+
+* Testing
